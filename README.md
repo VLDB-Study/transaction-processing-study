@@ -16,7 +16,7 @@
 
 | Chapter | Presenter | Date | Slides |
 | :------ | :-------- | :--- | :----- |
-| 2. Basic Computer Science Terminology (p.47~92)             | 이종백 | 2020.09.29. | |
+| [2. Basic Computer Science Terminology](chapter2) (p.47~92) | 이종백 | 2020.09.29. | |
 | 4. Transaction Models (p.159~238)                           | 박종혁 | 2020.10.06. | |
 | 5. Transaction Processing Monitors: An Overview (p.239~292) | 안미진 | 2020.10.13. | |
 | 8. Lock Implementation (p.449~492)                          | 박종혁 | 2020.10.20. | |
