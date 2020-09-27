@@ -5,11 +5,13 @@
 ## Main Presentation 
 
 - Presenter: 이종백
-  - [Slides]()
+  - [Slides](slides/)
 
 ## Short Presentation
 
 - Presenter 1: 박종혁
-  - [Slides]()
+  - [Slides](slides/)
+  
 - Presenter 2: 안미진
-  - [Slides]()
+  - Memory-Storage Hierarchy
+  - [Slides](slides/ch2-memory-storage-hierarchy.pdf)
