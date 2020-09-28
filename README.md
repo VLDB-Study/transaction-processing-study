@@ -14,20 +14,20 @@
 
 # 📜 Schedule
 
-| Chapter | Presenter | Date | Slides |
-| :------ | :-------- | :--- | :----- |
-| [2. Basic Computer Science Terminology](chapter2) (p.47~92) | 이종백 | 2020.09.29. | |
-| 4. Transaction Models (p.159~238)                           | 박종혁 | 2020.10.06. | |
-| 5. Transaction Processing Monitors: An Overview (p.239~292) | 안미진 | 2020.10.13. | |
-| 8. Lock Implementation (p.449~492)                          | 박종혁 | 2020.10.20. | |
-| 7. Isolation Concepts (p.375~448)                           | 이종백 | 2020.10.27. | |
-| 10. Transaction Manager Concepts (p.529~584)                | 안미진 | 2020.11.03. | |
-| 9. Log Manager (p.493~528)                                  | 이종백 | 2020.11.10. | |
-| 13. File and Buffer Management - Part 1 (p.661~750)         | 안미진 | 2020.11.17. | |
-| 11. Transaction Manager Structure (p.585~630)               | 박종혁 | 2020.11.24. | |
-| 13. File and Buffer Management - Part 2 (p.661~750)         | 안미진 | 2020.12.01. | |
-| 14. The Tuple-Oriented File System (p.751~830)              | 박종혁 | 2020.12.08. | |
-| 15. Access Paths (p.831~916)                                | 이종백 | 2020.12.15. | |
+| Chapter | Presenter | Date |
+| :------ | :-------- | :--- |
+| [2. Basic Computer Science Terminology](chapter2) (p.47~92) | 이종백 | 2020.09.29. |
+| 4. Transaction Models (p.159~238)                           | 박종혁 | 2020.10.06. |
+| 5. Transaction Processing Monitors: An Overview (p.239~292) | 안미진 | 2020.10.13. |
+| 8. Lock Implementation (p.449~492)                          | 박종혁 | 2020.10.20. |
+| 7. Isolation Concepts (p.375~448)                           | 이종백 | 2020.10.27. |
+| 10. Transaction Manager Concepts (p.529~584)                | 안미진 | 2020.11.03. |
+| 9. Log Manager (p.493~528)                                  | 이종백 | 2020.11.10. |
+| 13. File and Buffer Management - Part 1 (p.661~750)         | 안미진 | 2020.11.17. |
+| 11. Transaction Manager Structure (p.585~630)               | 박종혁 | 2020.11.24. |
+| 13. File and Buffer Management - Part 2 (p.661~750)         | 안미진 | 2020.12.01. |
+| 14. The Tuple-Oriented File System (p.751~830)              | 박종혁 | 2020.12.08. |
+| 15. Access Paths (p.831~916)                                | 이종백 | 2020.12.15. |
 
 # 💸 Penalty
 
