@@ -7,7 +7,7 @@
 # 🗣️ Study Description
 
 - 일시: 매주 화요일 오후 8시 30분
-- 장소: 온라인 (Zoom) or 연구실
+- 장소: 온라인 (Zoom/Hangouts) or 연구실
 - 진행 방식
     - 발표자: 해당 챕터 내용 발표 (30분)
     - 발표자 제외: 해당 챕터 내용 관련 short presentation (10분)
