@@ -10,7 +10,7 @@
 ## Short Presentation
 
 - Presenter 1: 박종혁
-  - [Slides](slides/)
+  - [Slides](slides/ch2-the-five-minute-rule.pdf)
   
 - Presenter 2: 안미진
   - Memory-Storage Hierarchy
