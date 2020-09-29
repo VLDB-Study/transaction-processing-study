@@ -10,6 +10,7 @@
 ## Short Presentation
 
 - Presenter 1: 박종혁
+  - The Five-Minute Rule
   - [Slides](slides/ch2-the-five-minute-rule.pdf)
   
 - Presenter 2: 안미진
