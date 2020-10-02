@@ -3,7 +3,7 @@
 ## Main Presentation 
 
 - Presenter: 이종백
-  - [Slides](slides/Ch2_basic_computer_system_terms.pdf)
+  - [Slides](slides/ch2-basic-computer-system-terms)
 
 ## Short Presentation
 
