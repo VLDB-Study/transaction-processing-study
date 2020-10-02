@@ -1,7 +1,5 @@
 # Chapter 2: Basic Computer Science Terminology
 
-한줄 요약
-
 ## Main Presentation 
 
 - Presenter: 이종백
