@@ -7,7 +7,7 @@
 # 🗣️ Study Description
 
 - 일시: 매주 화요일 오후 8시 30분
-- 장소: 온라인 (Zoom/Hangouts) or 연구실
+- 장소: 온라인 (Hangouts) or 연구실
 - 진행 방식
     - 발표자: 해당 챕터 내용 발표 (30분)
     - 발표자 제외: 해당 챕터 내용 관련 short presentation (10분)
@@ -18,7 +18,7 @@
 | :------ | :-------- | :--- |
 | [2. Basic Computer Science Terminology](chapter2) (p.47~92) | 이종백 | 2020.09.29. |
 | [4. Transaction Models](chapter4) (p.159~238)               | 박종혁 | 2020.10.06. |
-| 5. Transaction Processing Monitors: An Overview (p.239~292) | 안미진 | 2020.10.13. |
+| [5. Transaction Processing Monitors: An Overview](chapter5) (p.239~292) | 안미진 | 2020.10.13. |
 | 8. Lock Implementation (p.449~492)                          | 박종혁 | 2020.10.20. |
 | 7. Isolation Concepts (p.375~448)                           | 이종백 | 2020.10.27. |
 | 10. Transaction Manager Concepts (p.529~584)                | 안미진 | 2020.11.03. |
