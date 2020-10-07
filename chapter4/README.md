@@ -3,7 +3,7 @@
 ## Main Presentation 
 
 - Presenter: 박종혁
-  - [Slides](slides/)
+  - [Slides](slides/ch4-transaction-models.pdf)
 
 ## Short Presentation
 
