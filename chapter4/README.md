@@ -12,4 +12,4 @@
   - [Slides](slides/ch4-distributed-transactions-in-msa.pdf)
   
 - Presenter 2: 이종백
-  - [Slides](slides)
+  - [Slides](slides/ch4_emerging_hardware_trends_and_tx_processing.pptx)
