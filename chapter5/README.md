@@ -8,7 +8,8 @@
 ## Short Presentation
 
 - Presenter 1: 박종혁
-  - [Slides](slides)
+  - Monitoring System
+  - [Slides](slides/ch5-monitoring-system.pdf)
   
 - Presenter 2: 이종백
   - [Slides](slides)
