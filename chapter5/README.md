@@ -3,7 +3,7 @@
 ## Main Presentation 
 
 - Presenter: 안미진
-  - [Slides](slides)
+  - [Slides](slides/ch5-transaction-processing-monitors-an-overview.pdf)
 
 ## Short Presentation
 
