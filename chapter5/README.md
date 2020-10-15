@@ -12,4 +12,5 @@
   - [Slides](slides/ch5-monitoring-system.pdf)
   
 - Presenter 2: 이종백
-  - [Slides](slides)
+  - [Slides](slides/ch5-tmax.pdf)
+
