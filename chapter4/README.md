@@ -13,4 +13,4 @@
   
 - Presenter 2: 이종백
   - Emerging Hardware Trends in Large-Scale Transaction Processing
-  - [Slides](slides/ch4_emerging_hardware_trends_and_tx_processing.pdf)
+  - [Slides](slides/ch4-emerging-hardware-trends-and-tx-processing.pdf)

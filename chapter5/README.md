@@ -8,9 +8,9 @@
 ## Short Presentation
 
 - Presenter 1: 박종혁
-  - Monitoring System
+  - Performance Monitoring System: Percona PMM and Intel PCM
   - [Slides](slides/ch5-monitoring-system.pdf)
   
 - Presenter 2: 이종백
+  - Use Case: Tmax
   - [Slides](slides/ch5-tmax.pdf)
-
