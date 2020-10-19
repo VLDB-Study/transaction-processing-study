@@ -8,7 +8,8 @@
 ## Short Presentation
 
 - Presenter 1: 안미진
-  - [Slides](slides)
+  - MySQL/InnoDB Locking
+  - [Slides](slides/ch8-innodb-locking.pdf)
   
 - Presenter 2: 이종백
   - [Slides](slides)
