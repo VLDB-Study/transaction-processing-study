@@ -8,4 +8,5 @@
 ## Short Presentation
 
 - Presenter 1: 안미진
-  - [Slides](slides)
+  - InnoDB Isolation Levels
+  - [Slides](slides/ch7-innodb-isolation-levels.pdf)
