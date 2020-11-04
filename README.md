@@ -20,14 +20,14 @@
 | [4. Transaction Models](chapter4) (p.159~238)               | 박종혁 | 2020.10.06. |
 | [5. Transaction Processing Monitors: An Overview](chapter5) (p.239~292) | 안미진 | 2020.10.13. |
 | [8. Lock Implementation](chapter8) (p.449~492)              | 박종혁 | 2020.10.20. |
-| [7. Isolation Concepts](chapter7) (p.375~448)               | 이종백 | 2020.11.03. |
-| 10. Transaction Manager Concepts (p.529~584)                | 안미진 | 2020.11.17. |
-| 9. Log Manager (p.493~528)                                  | 박종혁 | 2020.12.01. |
-| 13. File and Buffer Management - Part 1 (p.661~750)         | 안미진 | 2020.12.08. |
-| 11. Transaction Manager Structure (p.585~630)               | 이종백 | 2020.12.15. |
-| 13. File and Buffer Management - Part 2 (p.661~750)         | 안미진 | 2020.12.22. |
-| 14. The Tuple-Oriented File System (p.751~830)              | 박종혁 | 2020.12.29. |
-| 15. Access Paths (p.831~916)                                | 이종백 | 2020.01.05. |
+| [7. Isolation Concepts](chapter7) (p.375~448)               | 이종백 | 2020.11.10. |
+| 10. Transaction Manager Concepts (p.529~584)                | 안미진 | 2020.11.24. |
+| 9. Log Manager (p.493~528)                                  | 박종혁 | 2020.12.08. |
+| 13. File and Buffer Management - Part 1 (p.661~750)         | 안미진 | 2020.12.15. |
+| 11. Transaction Manager Structure (p.585~630)               | 이종백 | 2020.12.22. |
+| 13. File and Buffer Management - Part 2 (p.661~750)         | 안미진 | 2020.12.29. |
+| 14. The Tuple-Oriented File System (p.751~830)              | 박종혁 | 2020.01.05. |
+| 15. Access Paths (p.831~916)                                | 이종백 | 2020.01.12. |
 
 # 💸 Penalty
 
