@@ -3,7 +3,7 @@
 ## Main Presentation 
 
 - Presenter: 안미진
-  - [Slides](slides/)
+  - [Slides](slides/ch10-transaction-manager-concepts.pdf)
 
 ## Short Presentation
 
