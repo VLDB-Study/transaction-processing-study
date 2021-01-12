@@ -9,7 +9,7 @@
 
 - Presenter 1: 박종혁
   - 
-  - [Slides](slides)
+  - [Slides](slides/ch10-mini-transaction-at-MySQL.pdf)
   
 - Presenter 2: 이종백
   - 
