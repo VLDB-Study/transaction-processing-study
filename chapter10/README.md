@@ -13,4 +13,4 @@
   
 - Presenter 2: 이종백
   - 
-  - [Slides](slides)
+  - [Slides](slides/ch10-resilient-distributed-datasets.pdf)
