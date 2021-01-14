@@ -12,5 +12,5 @@
   - [Slides](slides/ch10-mini-transaction-at-MySQL.pdf)
   
 - Presenter 2: 이종백
-  - 
+  - Resilient Distributed Datasets
   - [Slides](slides/ch10-resilient-distributed-datasets.pdf)
