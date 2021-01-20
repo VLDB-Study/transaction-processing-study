@@ -9,7 +9,7 @@
 
 - Presenter 1: 안미진
   - 
-  - [Slides](slides)
+  - [Slides](slides/ch9-the-lsn-concept-in-innodb-and-rocksdb.pdf)
   
 - Presenter 2: 이종백
   - 
