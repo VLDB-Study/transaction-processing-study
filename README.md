@@ -23,11 +23,10 @@
 | [7. Isolation Concepts](chapter7) (p.375~448)               | 이종백 | 2020.12.08. |
 | [10. Transaction Manager Concepts](chapter10) (p.529~584)   | 안미진 | 2021.01.12. |
 | [9. Log Manager](chapter9) (p.493~528)                      | 박종혁 | 2021.01.19. |
-| [13. File and Buffer Management - Part 1](chapter13) (p.661~750) | 안미진 | 2021.02.02. |
-| 11. Transaction Manager Structure (p.585~630)               | 이종백 | 2021.02.02. |
-| 13. File and Buffer Management - Part 2 (p.661~750)         | 안미진 | 2021.02.09. |
-| 14. The Tuple-Oriented File System (p.751~830)              | 박종혁 | 2021.02.16. |
-| 15. Access Paths (p.831~916)                                | 이종백 | 2021.02.23. |
+| [13. File and Buffer Management](chapter13) (p.661~750)     | 안미진 | 2021.02.16. |
+| 11. Transaction Manager Structure (p.585~630)               | 이종백 | 2021.02.23. |
+| 14. The Tuple-Oriented File System (p.751~830)              | 박종혁 | 2021.03.02. |
+| 15. Access Paths (p.831~916)                                | 이종백 | 2021.03.09. |
 
 # 💸 Penalty
 

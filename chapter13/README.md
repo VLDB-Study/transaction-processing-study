@@ -3,8 +3,7 @@
 ## Main Presentation 
 
 - Presenter: 안미진
-  - [Slides1](slides)
-  - [Slides2](slides)
+  - [Slides](slides/ch13-file-and-buffer-management.pdf)
 
 ## Short Presentation
 
