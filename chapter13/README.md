@@ -8,7 +8,7 @@
 ## Short Presentation
 
 - Presenter 1: 박종혁
-  - [Slides](slides)
+  - [Slides](slides/ch13-redis-memory-management.pdf)
   
 - Presenter 2: 이종백
   - [Slides](slides)
